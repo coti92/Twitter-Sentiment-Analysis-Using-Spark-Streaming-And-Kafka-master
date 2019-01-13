@@ -1,0 +1,8 @@
+kafka-python
+oauthlib
+requests
+requests-oauthlib
+six
+tweepy
+configparser
+matplotlib
